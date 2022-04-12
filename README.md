@@ -1,6 +1,6 @@
 # Manual-Selection-Tool-VB-Version
 ###
-针对CSGO搬砖手动选择商品的利润率计算器(USD TO CNY),由Visual Basic 6.0编写。
+针对Steam饰品搬砖手动选择商品的利润率计算器(USD TO CNY),由Visual Basic 6.0编写。
 ###
 (Visual Basic语法简单但是是早期语言，v0.5f将成为VB Version的最终版，后续以Python Version继续更新)
 #
